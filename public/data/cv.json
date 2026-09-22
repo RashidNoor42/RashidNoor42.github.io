@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:02:17.332Z",
+  "updatedAt": "2026-09-22T19:05:50.748Z",
   "settings": {
     "siteTitle": "Rashid Noor",
     "metaDescription": "Rashid Noor — Software Engineer & Python/Odoo Developer based in Islamabad, Pakistan.",
@@ -186,7 +186,20 @@
       "company": "CNTXT Riyadh",
       "start": "2026-04",
       "end": "",
-      "points": []
+      "points": [
+        "Develop and maintain Odoo Enterprise ERP solutions for enterprise clients across multiple business domains.",
+        "Deploy, manage and monitor Odoo.sh environments, including staging, production releases and branch-based workflows.",
+        "Design and build new custom Odoo modules in Python, PostgreSQL, XML and OWL, tailored to client business processes.",
+        "Customize core Odoo apps (Sales, Accounting, Inventory, Purchase, HR) to fit complex business requirements.",
+        "Build integrations between Odoo and external systems through REST APIs, webhooks and scheduled sync jobs.",
+        "Implement event-driven integrations with Google Cloud Pub/Sub for reliable, asynchronous data exchange.",
+        "Integrate Odoo with Salesforce to keep customer, sales and order data consistent across both platforms.",
+        "Contribute to digitalization projects that replace manual, paper-based processes with automated ERP workflows.",
+        "Optimize module performance, database queries and scheduled actions for large production datasets.",
+        "Translate business requirements into technical designs together with functional consultants and stakeholders.",
+        "Review code, mentor engineers and enforce Odoo development standards and Git-based workflows.",
+        "Write technical documentation and support UAT, go-live and post-launch stabilization."
+      ]
     },
     {
       "id": "x1",
