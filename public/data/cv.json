@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-22T18:31:01.289Z",
+  "settings": {
+    "siteTitle": "Rashid Noor",
+    "metaDescription": "Rashid Noor — Software Engineer & Python/Odoo Developer based in Islamabad, Pakistan.",
+    "accentColor": "#2b5b8c",
+    "footerText": "Thank you for your time and consideration. Looking forward and I would love to work with you.",
+    "copyrightName": "Rashid Noor",
+    "creditText": "",
+    "formspreeEndpoint": "",
+    "showBackToTop": true
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "navLabel": "Home",
+      "icon": "bx bx-home",
+      "title": "",
+      "intro": "",
+      "visible": true,
+      "showInNav": true
+    },
+    {
+      "id": "about",
+      "navLabel": "About",
+      "icon": "bx bx-user",
+      "title": "About",
+      "intro": "I am a passionate Software Engineer with a Master’s degree in Software Engineering from FAST National University (2022–2024). My thesis, “Automated Testing of Microservices Using Evolutionary Algorithms,” harnessed Python and machine learning to optimize testing for distributed systems. Skilled in Python, Django, PostgreSQL, RESTful APIs, and XML, I have engineered scalable ERP systems. Eager to advance AI-driven research, I am committed to pursuing a PhD to innovate in computational social science and intelligent systems.",
+      "visible": true,
+      "showInNav": true
+    },
+    {
+      "id": "skills",
+      "navLabel": "Skills",
+      "icon": "bx bx-bar-chart-alt-2",
+      "title": "Skills",
+      "intro": "Tools I use daily to build and ship backend systems.",
+      "visible": true,
+      "showInNav": true
+    },
+    {
+      "id": "resume",
+      "navLabel": "Experience",
+      "icon": "bx bx-file-blank",
+      "title": "Experience",
+      "intro": "",
+      "visible": true,
+      "showInNav": true
+    },
+    {
+      "id": "portfolio",
+      "navLabel": "Work",
+      "icon": "bx bx-book-content",
+      "title": "Selected work",
+      "intro": "ERP systems for healthcare and education, plus research in machine learning and automated testing.",
+      "visible": true,
+      "showInNav": true
+    },
+    {
+      "id": "contact",
+      "navLabel": "Contact",
+      "icon": "bx bx-envelope",
+      "title": "Contact",
+      "intro": "Open to engineering roles and PhD research collaborations.",
+      "visible": true,
+      "showInNav": true
+    }
+  ],
+  "profile": {
+    "name": "Rashid Noor",
+    "typedItems": [
+      "Software Engineer",
+      "Python/Odoo Developer",
+      "Researcher"
+    ],
+    "headline": "Software Engineer & Python Developer.",
+    "shortIntro": "A result driven, customer focused and statistics based enthusiastic, passionate and dedicated professional software engineer, having Master’s degree in software engineering.",
+    "bio": "I build reliable, scalable backend systems with Python, Django, and Odoo. My work spans ERP for healthcare and education, RESTful service design, and data‑intensive reporting with PostgreSQL and XML/OWL. My research mindset comes from my MS at FAST‑NUCES, where I built an evolutionary microservices testing framework. I value clean code, pragmatic architecture, and fast feedback through reviews and demos.",
+    "birthday": "1998-11-10",
+    "showAge": true,
+    "website": "https://rashidnoor42.github.io/",
+    "phone": "+92-3125188252",
+    "city": "Islamabad, Pakistan",
+    "degree": "Master’s in Software Engineering",
+    "email": "rnoor6309@gmail.com",
+    "availability": "Available",
+    "availabilityLabel": "Research",
+    "photo": "assets/img/profile-img.jpg",
+    "summary": "Software Engineer specialized in Python and Odoo, building ERP and data-centric solutions with Django, PostgreSQL, REST APIs, and XML/OWL. Passionate about code quality, agile delivery, and applied research."
+  },
+  "social": [
+    {
+      "id": "s1",
+      "label": "Email",
+      "icon": "bx bx-envelope",
+      "url": "mailto:rnoor6309@gmail.com",
+      "showInHero": false
+    },
+    {
+      "id": "s2",
+      "label": "X / Twitter",
+      "icon": "bx bxl-twitter",
+      "url": "https://x.com/rashid_6309",
+      "showInHero": true
+    },
+    {
+      "id": "s3",
+      "label": "GitHub",
+      "icon": "bx bxl-github",
+      "url": "https://github.com/rashidnoor42",
+      "showInHero": true
+    },
+    {
+      "id": "s4",
+      "label": "LinkedIn",
+      "icon": "bx bxl-linkedin",
+      "url": "https://www.linkedin.com/in/rashid-noor-b25962154",
+      "showInHero": true
+    }
+  ],
+  "skills": [
+    {
+      "id": "k1",
+      "name": "Python",
+      "level": 95
+    },
+    {
+      "id": "k2",
+      "name": "Django / DRF",
+      "level": 90
+    },
+    {
+      "id": "k3",
+      "name": "Odoo (OWL/XML)",
+      "level": 85
+    },
+    {
+      "id": "k4",
+      "name": "JavaScript",
+      "level": 80
+    },
+    {
+      "id": "k5",
+      "name": "PostgreSQL",
+      "level": 90
+    },
+    {
+      "id": "k6",
+      "name": "RESTful APIs",
+      "level": 95
+    },
+    {
+      "id": "k7",
+      "name": "Docker & CI/CD",
+      "level": 75
+    },
+    {
+      "id": "k8",
+      "name": "Git & Agile",
+      "level": 90
+    }
+  ],
+  "education": [
+    {
+      "id": "e1",
+      "degree": "MS Software Engineering",
+      "start": "2022-02",
+      "end": "2024-02",
+      "institution": "FAST NUCES, Islamabad Campus",
+      "description": "Thesis: \"Automated Testing of Microservices Using Evolutionary Algorithms\" — a Python-based framework to optimize testing for distributed systems."
+    },
+    {
+      "id": "e2",
+      "degree": "BS Software Engineering",
+      "start": "2017-08",
+      "end": "2021-08",
+      "institution": "Riphah International University, Islamabad",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "xy7afh4m",
+      "title": "Senior Software Engineer",
+      "company": "CNTXT Riyadh",
+      "start": "2026-04",
+      "end": "",
+      "points": []
+    },
+    {
+      "id": "x1",
+      "title": "Software Engineer",
+      "start": "2022-10",
+      "end": "2026-04",
+      "company": "Tangent Technologies, Islamabad, Pakistan",
+      "points": [
+        "Developed ERP solutions using Python; tailored modules to client requirements.",
+        "Built XML-based custom reports enhancing ERP functionality and usability.",
+        "Designed RESTful APIs and PostgreSQL schemas for efficient data management.",
+        "Applied Agile practices and Git workflows; conducted code reviews.",
+        "Delivered demos to stakeholders and iterated on feedback."
+      ]
+    },
+    {
+      "id": "x2",
+      "title": "Software Engineer",
+      "start": "2021-10",
+      "end": "2022-09",
+      "company": "Heuristics Technologies, Islamabad, Pakistan",
+      "points": [
+        "Built scalable web apps in Python with RESTful APIs for seamless backend integration.",
+        "Implemented modular, responsive UI using SCSS; maintained clean designs.",
+        "Integrated Strapi CMS for flexible, user‑friendly content management.",
+        "Applied UI/UX principles to craft intuitive interfaces and improve user experience.",
+        "Managed Git-based collaboration and pair-programming code reviews with test coverage."
+      ]
+    },
+    {
+      "id": "x3",
+      "title": "Software Engineer",
+      "start": "2020-08",
+      "end": "2021-07",
+      "company": "The University of Edinburgh (Remote), United Kingdom",
+      "points": [
+        "Developed a web-based placement platform using Python and Django.",
+        "Designed RESTful APIs for seamless integration with external systems and databases.",
+        "Modeled scalable PostgreSQL schemas; containerized services with Docker.",
+        "Built responsive UIs with HTML, CSS, and SCSS, ensuring cross-browser compatibility."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "ICSI eCare — Odoo 16",
+      "description": "Infertility ERP custom modules with Accounting integration using Python, PostgreSQL, JS/OWL, and XML.",
+      "category": "ERP",
+      "image": "assets/img/portfolio/portfolio-1.jpg",
+      "link": ""
+    },
+    {
+      "id": "p2",
+      "title": "Medicsi eCare — Odoo 12",
+      "description": "Health Management System: Gynae, Medical, Surgical, Paeds, IPD/OPD — Python, PostgreSQL, JS/OWL, XML.",
+      "category": "ERP",
+      "image": "assets/img/portfolio/portfolio-2.jpg",
+      "link": ""
+    },
+    {
+      "id": "p3",
+      "title": "Sentiment Analysis — ML",
+      "description": "Twitter dataset analysis using packageX library for NLP experimentation.",
+      "category": "Machine Learning",
+      "image": "assets/img/portfolio/portfolio-3.jpg",
+      "link": ""
+    },
+    {
+      "id": "p4",
+      "title": "Master’s Thesis — Automated Testing of Microservices",
+      "description": "Python-based framework using evolutionary algorithms to optimize testing for distributed systems.",
+      "category": "Research",
+      "image": "assets/img/portfolio/portfolio-4.jpg",
+      "link": ""
+    }
+  ]
+}

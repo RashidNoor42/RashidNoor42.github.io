@@ -1,0 +1,32 @@
+{
+  "name": "rashid-cv",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "concurrently -k -n api,web -c blue,green \"node server/dev-server.mjs\" \"ng serve\"",
+    "start:web": "ng serve",
+    "api": "node server/dev-server.mjs",
+    "build": "ng build",
+    "build:dev": "ng build --configuration development"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^21.2.0",
+    "@angular/compiler": "^21.2.0",
+    "@angular/core": "^21.2.0",
+    "@angular/forms": "^21.2.0",
+    "@angular/platform-browser": "^21.2.0",
+    "@angular/router": "^21.2.0",
+    "boxicons": "^2.1.4",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@angular/build": "^21.2.24",
+    "@angular/cli": "^21.2.24",
+    "@angular/compiler-cli": "^21.2.0",
+    "concurrently": "^10.0.5",
+    "prettier": "^3.8.1",
+    "typescript": "~5.9.2"
+  }
+}
