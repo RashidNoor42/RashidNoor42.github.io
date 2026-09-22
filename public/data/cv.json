@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:21:18.692Z",
+  "updatedAt": "2026-09-22T19:23:37.600Z",
   "settings": {
     "siteTitle": "Rashid Noor",
     "metaDescription": "Rashid Noor — Software Engineer & Python/Odoo Developer based in Islamabad, Pakistan.",
@@ -87,7 +87,7 @@
     "email": "rnoor6309@gmail.com",
     "availability": "Available",
     "availabilityLabel": "Senior Software Engineer",
-    "photo": "assets/img/profile-img.jpg",
+    "photo": "assets/img/uploads/1790105011820-img-20260607-wa0012.jpg",
     "summary": "Software Engineer specialized in Python and Odoo, building ERP and data-centric solutions with Django, PostgreSQL, REST APIs, and XML/OWL. Passionate about code quality, agile delivery, and applied research."
   },
   "social": [
