@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:23:37.600Z",
+  "updatedAt": "2026-09-23T11:28:05.718Z",
   "settings": {
     "siteTitle": "Rashid Noor",
     "metaDescription": "Rashid Noor — Software Engineer & Python/Odoo Developer based in Islamabad, Pakistan.",
@@ -76,7 +76,7 @@
       "Researcher"
     ],
     "headline": "Software Engineer & Python Developer.",
-    "shortIntro": "A result driven, customer focused and statistics based enthusiastic, passionate and dedicated professional software engineer, having Master’s degree in software engineering.",
+    "shortIntro": "A result driven, customer focused and statistics based enthusiastic, seasoned and dedicated professional software engineer, having Master’s degree in software engineering.",
     "bio": "I build reliable, scalable backend systems with Python, Django, and Odoo. My work spans ERP for healthcare and education, RESTful service design, and data‑intensive reporting with PostgreSQL and XML/OWL. My research mindset comes from my MS at FAST‑NUCES, where I built an evolutionary microservices testing framework. I value clean code, pragmatic architecture, and fast feedback through reviews and demos.",
     "birthday": "1998-11-10",
     "showAge": true,
